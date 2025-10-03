@@ -5,7 +5,7 @@
  {
 	// "$schema": "node_modules/wrangler/config-schema.json",
 	// wrangler.jsonc
-"name": "newvibesdk-production",
+    "name": "newvibesdk-production",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-08-10",
 	"compatibility_flags": ["nodejs_compat"],
